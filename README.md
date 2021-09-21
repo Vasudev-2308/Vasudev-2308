@@ -5,11 +5,11 @@
 
 # A Code Enthusiast..! 
 
-
+<br/>
 
 # I'm an Android Flutter and Web Developer !!!
 
-
+<br/>
 
 # Connect with me:-
 
@@ -18,8 +18,9 @@
 [<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-left: 30px;"/>][linkedin]
 [<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" style="padding-left: 30px;"/>][instagram]
 
+<br/>
 
-
+<br/>
 
 # Languages and Tools :-
 <img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
