@@ -1,7 +1,9 @@
 
 
-# Hi There <img src="./assets/Hi.gif" alt=""> This is Vasudev aka [Vdx] [website] 
+# Hi There 
+# This is Vasudev aka Vdx[website] <img src="./assets/Hi.gif">
 <img src="./assets/vdx.png">
+
 ## A Code Enthusiast 
 ## I'm an Android Flutter and Web Developer !!!
 
