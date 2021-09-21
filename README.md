@@ -13,10 +13,10 @@
 
 # Connect with me:-
 
-[<img align="center" width = "60px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-advertising-kiranshastry-gradient-kiranshastry.png" style="padding-left: 10px;"/>][website]
-[<img align="center" width = "60px" src="https://img.icons8.com/color/64/000000/github-2.png" style="padding-left: 10px;"/>][github]
-[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-left: 10px;"/>][linkedin]
-[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" style="padding-left: 10px;"/>][instagram]
+[<img align="center" width = "60px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-advertising-kiranshastry-gradient-kiranshastry.png" style="padding-left: 30px;"/>][website]
+[<img align="center" width = "60px" src="https://img.icons8.com/color/64/000000/github-2.png" style="padding-left: 30px;"/>][github]
+[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-left: 30px;"/>][linkedin]
+[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" style="padding-left: 30px;"/>][instagram]
 
 <br/>
 
