@@ -4,8 +4,10 @@
 # This is Vasudev aka [Vdx][website] <img src="./assets/Hi.gif" width="40" height="40">
 <img src="./assets/vdx.png">
 
-## A Code Enthusiast 
-## I'm an Android Flutter and Web Developer !!!
+# A Code Enthusiast 
+# I'm an Android Flutter and Web Developer !!!
+
+<br/>
 
 <br/>
 
@@ -16,10 +18,11 @@
 [<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>][instagram]
 
+<br/>
 
 <br/>
 
-## Languages and Tools :-
+# Languages and Tools :-
 <img align="left" width = "30px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" width = "30px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" width = "30px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
