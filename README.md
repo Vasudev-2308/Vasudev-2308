@@ -5,7 +5,7 @@
 
 <br/>
 
-# A Code Enthusiast.. <3/>! 
+# A Code Enthusiast.. </>! 
 
 <br/>
 
@@ -15,6 +15,8 @@
 
 # Connect with me
 
+<br/>
+
 [<img align="center" width = "60px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-advertising-kiranshastry-gradient-kiranshastry.png" style="padding-left: 30px;"/>][website]
 [<img align="center" width = "60px" src="https://img.icons8.com/color/64/000000/github-2.png" style="padding-left: 30px;"/>][github]
 [<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-left: 30px;"/>][linkedin]
@@ -22,18 +24,20 @@
 
 <br/>
 
-<br/>
 
 # Languages and Tools 
-<img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img align="left" width = "50px" src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
-<img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" width = "50px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+
+<br/>
+
+<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img align="left" width = "60px" src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
+<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" width = "60px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 
 
 
