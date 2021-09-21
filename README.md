@@ -1,7 +1,7 @@
 
 
 # Hi There 
-# This is Vasudev aka Vdx[website] <img src="./assets/Hi.gif">
+# This is Vasudev aka [Vdx][website] <img src="./assets/Hi.gif">
 <img src="./assets/vdx.png">
 
 ## A Code Enthusiast 
