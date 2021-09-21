@@ -1,17 +1,19 @@
 
 <img src="./assets/vdx.png">
 
-# Hi there this is Vasudev aka [Vdx][website] <img src="./assets/Hi.gif" width="40" height="40">
-
-# A Code Enthusiast..! 
+# Hi there this is Vasudev aka [Vdx][website] <img src="./assets/Hi.gif" width="45" height="45">
 
 <br/>
 
-# I'm an Android Flutter and Web Developer !!!
+# A Code Enthusiast.. <3/>! 
 
 <br/>
 
-# Connect with me:-
+# I'm an Android Flutter and Web Developer!!!
+
+<br/>
+
+# Connect with me
 
 [<img align="center" width = "60px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-advertising-kiranshastry-gradient-kiranshastry.png" style="padding-left: 30px;"/>][website]
 [<img align="center" width = "60px" src="https://img.icons8.com/color/64/000000/github-2.png" style="padding-left: 30px;"/>][github]
@@ -22,7 +24,7 @@
 
 <br/>
 
-# Languages and Tools :-
+# Languages and Tools 
 <img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" width = "50px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
