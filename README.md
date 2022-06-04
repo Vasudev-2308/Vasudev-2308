@@ -49,4 +49,4 @@
 [linkedin]: https://www.linkedin.com/in/vasudeva-s-4714341a2/
 
 
-[!Vasudev's Github Stats] (https://github-readme-stats.vercel.app/api?username=Vasudev-2308)
+https://github-readme-stats.vercel.app/api?username=Vasudev-2308
