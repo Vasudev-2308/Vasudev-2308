@@ -1,52 +1,59 @@
 
-<img src="./assets/vdx.png">
 
-# Hi there this is Vasudev aka [Vdx][website] <img src="./assets/Hi.gif" width="45" height="45">
+
+# ***Hi there.. This is Vasudev*** <img src="./assets/Hi.gif" width="80" height="90"/>  
+
+## ***You can call me Vdx***
+
+<img height="500" src="./assets/vdx.png">
+
+## ***About me***
+
+- ***< A Code Enthusiast../>***
+
+- ***💻  An Android, Flutter and Web Developer with some knowledge on UI/UX design!!!***
+
+- ***🛠  Love building apps and websites***
+
+- ***🧑🏻‍💻  Love writing Dart,C++,Python and building fun experiments on type-level***
+
+
+
+
+
+### ***Languages and Frameworks***
+<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>| 
+|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>| 
+|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>| 
+|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>|
+|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>|
+|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>|
+|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
 
 <br/>
 
-# A Code Enthusiast.. </>! 
+### ***Github Stats***
 
-<br/>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vasudev's Github Stats" /></a>
 
-# I'm an Android Flutter and Web Developer!!!
-
-<br/>
-
-# Connect with me
-
-<br/>
-
-[<img align="center" width = "60px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-advertising-kiranshastry-gradient-kiranshastry.png" style="padding-left: 30px;"/>][website]
-[<img align="center" width = "60px" src="https://img.icons8.com/color/64/000000/github-2.png" style="padding-left: 30px;"/>][github]
-[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-left: 30px;"/>][linkedin]
-[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" style="padding-left: 30px;"/>][instagram]
-
-<br/>
-
-
-# Languages and Tools 
-
-<br/>
-
-<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img align="left" width = "60px" src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
-<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img align="left" width = "60px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" width = "60px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-2308&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
 
 
+
+### ***Connect with me on***
+
+
+<code>[<img align="center" width = "60px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-advertising-kiranshastry-gradient-kiranshastry.png" style="padding-left: 30px;"/>][website]</code> |
+|<code>[<img align="center" width = "60px" src="https://img.icons8.com/color/64/000000/github-2.png" style="padding-left: 30px;"/>][github]</code> |
+|<code>[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-left: 30px;"/>][linkedin]</code> |
+|<code>[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" style="padding-left: 30px;"/>][instagram]</code> 
 
 [website]: https://vasudevsridhar.netlify.app
 [github]: https://github.com/Vasudev-2308
-[instagram]: https://www.instagram.com/___vdx___.dart/
+[instagram]: https://www.instagram.com/___just__vdx.__/
 [linkedin]: https://www.linkedin.com/in/vasudeva-s-4714341a2/
 
 
-https://github-readme-stats.vercel.app/api?username=Vasudev-2308
