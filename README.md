@@ -47,3 +47,6 @@
 [github]: https://github.com/Vasudev-2308
 [instagram]: https://www.instagram.com/___vdx___.dart/
 [linkedin]: https://www.linkedin.com/in/vasudeva-s-4714341a2/
+
+
+[!Vasudev's Github Stats] https://github-readme-stats.vercel.app/api?username=anuraghazra
