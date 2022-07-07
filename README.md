@@ -1,13 +1,17 @@
+<h1 align="center">Hi there.. This is Vasudev <img src="./assets/Hi.gif" width="70" height="70"/>  </h1>  
+
+<br/>
+<h2 align="center">You can call me Vdx<h2>
+<h3 align="center">A Code Enthusiast, App Developer and "A Knowledge Seeker".</h3>
 
 
+ <a  href="https://github.com/Vasudev-2308?tab=repositories"><h4 align="center">You Can find all my projects here</h4></a> 
 
-# ***Hi there.. This is Vasudev*** <img src="./assets/Hi.gif" width="80" height="90"/>  
-
-## ***You can call me Vdx***
+## ***About me***
 
 <img height="500" src="./assets/vdx.png">
 
-## ***About me***
+
 
 - ***< A Code Enthusiast../>***
 
@@ -38,6 +42,9 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vasudev's Github Stats" /></a>
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-2308&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+<br/>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudev-2308&"/></a>
 
 
 
