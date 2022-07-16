@@ -1,11 +1,11 @@
-<h1 align="center">Hi there.. This is Vasudev <img src="./assets/Hi.gif" width="70" height="70"/>  </h1>  
+<h1 align="center" >Hi there...<img src="./assets/Hi.gif" width="70" height="70"/>  </h1>
 
-<br/>
-<h2 align="center">You can call me Vdx<h2>
-<h3 align="center">A Code Enthusiast, App Developer and "A Knowledge Seeker".</h3>
+<h1 align="center" style="font-family: Babas;" >This is Vasudev aka VDX</h1>
+
+<h5>A Code Enthusiast, App Developer and A Knowledge Seeker</h5>
 
 
- <a  href="https://github.com/Vasudev-2308?tab=repositories"><h4 align="center">You Can find all my projects here</h4></a> 
+ <a  href="https://github.com/Vasudev-2308?tab=repositories">You can find all my projects here</a> 
 
 ## ***About me***
 
