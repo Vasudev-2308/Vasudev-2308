@@ -1,80 +1,33 @@
-<h1 align="center" >Hi there... This is Vasudev aka VDX <img src="./assets/Hi.gif" width="70" height="70"/>  </h1>
+<h1 align="center">Hi 👋, I'm Vasudev Aka Vdx</h1>
+<h3 align="center">A Knowledge Seeker and Code Enthusiast</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasudev-2308" alt="vasudev-2308" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/therealvdx2308" target="blank"><img src="https://img.shields.io/twitter/follow/therealvdx2308?logo=twitter&style=for-the-badge" alt="therealvdx2308" /></a> </p>
 
-- 🛠 Currently building **AGRO BUDDY 🌱🤖**
+- 🛠 Currently Building **AGRO BUDDY**
 
-- 💻 Currently exploring on **FULL STACK DEVELOPMENT 🧑🏻‍💻**
+- 💻 I’m currently learning **FULL STACK DEVELOPMENT**
 
-- 🤙🏻 I don't say no to **Collaborations, Hackathons, Flutter and Beer 🍺**
+- 👨‍💻 All of my projects are available at [https://github.com/Vasudev-2308?tab=repositories](https://github.com/Vasudev-2308?tab=repositories)
 
-- 🔥 **Java, JavaScript, Python and Dart** excite me
+- 🤙🏻 I don't say no to **Collaboration, Hackathon, Flutter and Beer**
 
-<br/>
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/therealvdx2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/therealvdx2308" height="30" width="40" /></a>
+<a href="https://twitter.com/therealvdx2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealvdx2308" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vasudeva-s-4714341a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vasudeva-s-4714341a2/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13171472/vasudeva-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13171472/vasudeva-s" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/___just__vdx.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___just__vdx.__/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vasudevsridhar29/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vasudevsridhar29/profile" height="30" width="40" /></a>
+</p>
 
-<h3 align="center"><a href="https://github.com/Vasudev-2308?tab=repositories">You can find all my projects here</a></h3> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasudev-2308&show_icons=true&locale=en&layout=compact" alt="vasudev-2308" /></p>
 
-## ***About me***
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudev-2308&show_icons=true&locale=en" alt="vasudev-2308" /></p>
 
-- **📚 Epistemophile**
-
-- **< A Code Enthusiast../>**
-
-- **💻  An Android, Flutter and Web Developer with some knowledge on UI/UX design**
-
-- **🛠  Love building apps and websites**
-
-- **🧑🏻‍💻  Love writing Dart,C++,Python and building fun experiments on type-level**
-
-
-<br/>
-
-## ***Pictorially Me:*** 
-
-<h1 align="center"><img src="./assets/vdx.png" height="400" /></h1>
-
-## ***Languages and Frameworks***
-<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>| 
-|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>| 
-|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>| 
-|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>|
-|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>|
-|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>|
-|<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-
-
-<br/>
-
-### ***Github Stats***
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vasudev's Github Stats" /></a>
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-2308&layout=compact&theme=buefy&hide_border=true" /></a> 
-
-<br/>
-
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudev-2308&"/></a>
-
-
-<br/>
-
-### ***Connect with me on***
-
-<div align="center">
-
-<code>[<img align="center" width = "60px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-advertising-kiranshastry-gradient-kiranshastry.png" style="padding-left: 30px;"/>][website]</code> |
-|<code>[<img align="center" width = "60px" src="https://img.icons8.com/color/64/000000/github-2.png" style="padding-left: 30px;"/>][github]</code> |
-|<code>[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-left: 30px;"/>][linkedin]</code> |
-|<code>[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" style="padding-left: 30px;"/>][instagram]</code> 
-</div>
-
-
-[website]: https://vasudevsridhar.netlify.app
-[github]: https://github.com/Vasudev-2308
-[instagram]: https://www.instagram.com/___just__vdx.__/
-[linkedin]: https://www.linkedin.com/in/vasudeva-s-4714341a2/
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-2308&" alt="vasudev-2308" /></p>
