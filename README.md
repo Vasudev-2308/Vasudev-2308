@@ -63,11 +63,14 @@
 
 ### ***Connect with me on***
 
+<div align="center">
 
 <code>[<img align="center" width = "60px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-advertising-kiranshastry-gradient-kiranshastry.png" style="padding-left: 30px;"/>][website]</code> |
 |<code>[<img align="center" width = "60px" src="https://img.icons8.com/color/64/000000/github-2.png" style="padding-left: 30px;"/>][github]</code> |
 |<code>[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="padding-left: 30px;"/>][linkedin]</code> |
 |<code>[<img align="center" width = "60px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" style="padding-left: 30px;"/>][instagram]</code> 
+</div>
+
 
 [website]: https://vasudevsridhar.netlify.app
 [github]: https://github.com/Vasudev-2308
