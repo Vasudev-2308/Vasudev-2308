@@ -10,7 +10,7 @@
 
 - 💻 I’m currently learning **FULL STACK DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vasudev-2308?tab=repositories](https://github.com/Vasudev-2308?tab=repositories)
+- 👨‍💻 All of my projects are available <a href="https://github.com/Vasudev-2308?tab=repositories">Here</a>
 
 - 🤙🏻 I don't say no to **Collaboration, Hackathon, Flutter and Beer**
 
