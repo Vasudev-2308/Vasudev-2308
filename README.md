@@ -1,31 +1,42 @@
-<h1 align="center" >Hi there...<img src="./assets/Hi.gif" width="70" height="70"/>  </h1>
-
-<h2 align="center" >This is Vasudev aka VDX</h2>
-
-<h5>A Code Enthusiast, App Developer and A Knowledge Seeker</h5>
+<h1 align="center" >Hi there... This is Vasudev aka VDX <img src="./assets/Hi.gif" width="70" height="70"/>  </h1>
 
 
- <a  href="https://github.com/Vasudev-2308?tab=repositories">You can find all my projects here</a> 
+
+- 🛠 Currently building **AGRO BUDDY 🌱🤖**
+
+- 💻 Currently exploring on **FULL STACK DEVELOPMENT 🧑🏻‍💻**
+
+- 🤙🏻 I don't say no to **Collaborations, Hackathons, Flutter and Beer 🍺**
+
+- 🔥 **Java, JavaScript, Python and Dart** excite me
+
+<br/>
+<br/>
+
+<h3 align="center"><a href="https://github.com/Vasudev-2308?tab=repositories">You can find all my projects here</a></h3> 
+
+<br/>
 
 ## ***About me***
 
-<img height="500" src="./assets/vdx.png">
+- **📚 Epistemophile**
+
+- **< A Code Enthusiast../>**
+
+- **💻  An Android, Flutter and Web Developer with some knowledge on UI/UX design**
+
+- **🛠  Love building apps and websites**
+
+- **🧑🏻‍💻  Love writing Dart,C++,Python and building fun experiments on type-level**
 
 
+<br/>
 
-- ***< A Code Enthusiast../>***
+## ***Pictorially Me:*** 
 
-- ***💻  An Android, Flutter and Web Developer with some knowledge on UI/UX design!!!***
+<h1 align="center"><img src="./assets/vdx.png" height="400" /></h1>
 
-- ***🛠  Love building apps and websites***
-
-- ***🧑🏻‍💻  Love writing Dart,C++,Python and building fun experiments on type-level***
-
-
-
-
-
-### ***Languages and Frameworks***
+## ***Languages and Frameworks***
 <code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>| 
 |<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>| 
 |<code><img height="60" style="padding-left: 30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>| 
@@ -44,11 +55,11 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-2308&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 <br/>
+
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudev-2308&"/></a>
 
 
-
-
+<br/>
 
 ### ***Connect with me on***
 
