@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vasudev Aka Vdx</h1>
 <h3 align="center">A Knowledge Seeker and Code Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasudev-2308" alt="vasudev-2308" /></a> </p>
+<p align="center" style="display: flex;justify-content: space-between;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasudev-2308" alt="vasudev-2308" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/therealvdx2308" target="blank"><img src="https://img.shields.io/twitter/follow/therealvdx2308?logo=twitter&style=for-the-badge" alt="therealvdx2308" /></a> </p>
+
+<h3 align="left">What Am I doing ?:</h3>
 
 - 🛠 Currently Building **AGRO BUDDY**
 
@@ -12,6 +13,22 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Vasudev-2308?tab=repositories](https://github.com/Vasudev-2308?tab=repositories)
 
 - 🤙🏻 I don't say no to **Collaboration, Hackathon, Flutter and Beer**
+
+
+<h3 align="left">About Me:</h3>
+
+- **📚 Epistemophile**
+
+- **< A Code Enthusiast../>**
+
+- **💻  An Android, Flutter and Web Developer with some knowledge on UI/UX design**
+
+- **🛠  Love building apps and websites**
+
+- **🧑🏻‍💻  Love writing Dart,C++,Python and building fun experiments on type-level**
+
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
