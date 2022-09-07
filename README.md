@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasudev Aka Vdx</h1>
 <h3 align="center">A Knowledge Seeker and Code Enthusiast</h3>
 
-<p align="center" style="display: flex;justify-content: space-between;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasudev-2308" alt="vasudev-2308" /></a> </p>
-
 
 <h3 align="left">What Am I doing ?:</h3>
 
