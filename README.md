@@ -4,9 +4,9 @@
 
 <h3 align="left">What Am I doing ?:</h3>
 
-- 🛠 Currently Building **AGRO BUDDY**
+- 🛠 Currently Building **SKILLS & AGROBUDDY**
 
-- 💻 I’m currently learning **FULL STACK DEVELOPMENT**
+- 💻 I’m currently learning **FULL STACK DEVELOPMENT with JAVA**
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/Vasudev-2308?tab=repositories">Here</a>
 
@@ -23,7 +23,7 @@
 
 - **🛠  Love building apps and websites**
 
-- **🧑🏻‍💻  Love writing Dart,C++,Python and building fun experiments on type-level**
+- **🧑🏻‍💻  Love writing Dart, C++, Java, Python and building fun experiments on type-level**
 
 
 <br/>
