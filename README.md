@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vasudev Aka Vdx</h1>
 <h3 align="center">A Knowledge Seeker and Code Enthusiast</h3>
 
+<p align="center">
+<img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-2308&" alt="vasudev-2308" />
+</p>
 
 <h3 align="left">What Am I doing ?:</h3>
 
@@ -44,15 +47,10 @@
 <br/>
 <br/>
 
-<div style="display:flex; flex-direction:row; justify-content: center; "> 
-
-<p style="display:flex; flex-direction:row" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasudev-2308&show_icons=true&locale=en&layout=compact" alt="vasudev-2308"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&count_private=true&show_icons=true&theme=onedark" alt="vasudev-2308" /></p>
-</div>
-
-<p style="text-align:center;">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-2308&" alt="vasudev-2308" />
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&count_private=true&show_icons=true&theme=radical" alt="vasudev-2308" />
 </p>
+
+
+
+
