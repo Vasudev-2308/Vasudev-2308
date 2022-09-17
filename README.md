@@ -31,6 +31,12 @@
 
 <br/>
 
+<h3 align="left">My Github Stats: </h3> 
+<br/>
+      <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&count_private=true&show_icons=true&theme=radical" alt="vasudev-2308" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/therealvdx2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/therealvdx2308" height="30" width="40" /></a>
@@ -47,9 +53,7 @@
 <br/>
 <br/>
 
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&count_private=true&show_icons=true&theme=radical" alt="vasudev-2308" />
-</p>
+
 
 
 
