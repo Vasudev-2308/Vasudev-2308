@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vasudev Aka Vdx</h1>
 <h3 align="center">A Knowledge Seeker and Code Enthusiast</h3>
 
+<p align="center">
+<img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-2308&" alt="vasudev-2308" />
+</p>
 
 <h3 align="left">What Am I doing ?:</h3>
 
@@ -28,6 +31,12 @@
 
 <br/>
 
+<h3 align="left">My Github Stats: </h3> 
+<br/>
+      <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&count_private=true&show_icons=true&theme=radical" alt="vasudev-2308" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/therealvdx2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/therealvdx2308" height="30" width="40" /></a>
@@ -44,15 +53,13 @@
 <br/>
 <br/>
 
-<div style="display:flex; flex-direction:row; justify-content: center; "> 
 
-<p style="display:flex; flex-direction:row" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasudev-2308&show_icons=true&locale=en&layout=compact" alt="vasudev-2308"/>
 
+<<<<<<< HEAD
 <img src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&count_private=true&show_icons=true&theme=onedark" alt="vasudev-2308" /></p>
 </div>
+=======
+>>>>>>> 3673547e85bd979fb3142d4ee7286410733239b9
 
-<p style="text-align:center;">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-2308&" alt="vasudev-2308" />
-</p>
+
