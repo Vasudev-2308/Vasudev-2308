@@ -49,7 +49,7 @@
 <p style="display:flex; flex-direction:row" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasudev-2308&show_icons=true&locale=en&layout=compact" alt="vasudev-2308"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&count_private=true&show_icons=true&theme=onedark" alt="vasudev-2308" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&count_private=true&show_icons=true&theme=onedark" alt="vasudev-2308" /></p>
 </div>
 
 <p style="text-align:center;">
