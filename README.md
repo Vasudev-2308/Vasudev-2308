@@ -54,12 +54,9 @@
 <br/>
 
 
-
-<<<<<<< HEAD
 <img src="https://github-readme-stats.vercel.app/api?username=Vasudev-2308&count_private=true&show_icons=true&theme=onedark" alt="vasudev-2308" /></p>
-</div>
-=======
->>>>>>> 3673547e85bd979fb3142d4ee7286410733239b9
+
+
 
 
 
