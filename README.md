@@ -2,7 +2,7 @@
 <h3 align="center">A Knowledge Seeker and Code Enthusiast</h3>
 
 <p align="center">
-<img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-2308&" alt="vasudev-2308" />
+<img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev-2308" alt="vasudev-2308" />
 </p>
 
 <h3 align="left">What Am I doing ?:</h3>
