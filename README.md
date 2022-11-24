@@ -7,9 +7,11 @@
 
 <h3 align="left">What Am I doing ?:</h3>
 
-- 🛠 Currently Building **SKILLS & AGROBUDDY**
+- 🛠 Currently Building **AGROBUDDY**
 
-- 💻 I’m currently learning **FULL STACK DEVELOPMENT with JAVA**
+- 🧭 Currently Exploring on **EDGE COMPUTING & AI** 
+
+- 💻 I’m currently learning **Something new Everyday**
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/Vasudev-2308?tab=repositories">Here</a>
 
